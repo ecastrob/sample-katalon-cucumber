@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>As a user I want navigation links that will eventually take me to these areas.
+
+Dashboard, 
+Appraisal Browser (View Appraisals in Work Queue), 
+Parcel Inquiry, 
+Property Browser (Parcel View), 
+Manual Comp Search,
+Public Server Admin,
+Logout
+
+Use the text as tooltips for the navigation buttons.</description>
+   <name>Navigation_Menu_landingTC</name>
+   <tag>@landing</tag>
+   <comment></comment>
+   <testCaseGuid>c0c931e7-4cfb-4399-9475-3f6c10f37de3</testCaseGuid>
+</TestCaseEntity>
